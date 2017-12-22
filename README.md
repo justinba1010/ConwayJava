@@ -1,5 +1,5 @@
 # Conways Game of Life
-Quickly wrote this just to play around, 21/12/17 11:45pm - 22/12/17 12:22pm
+Quickly wrote this just to play around, Got very bored one night.
 
 # To run:
 javac ConwayDriver.java && java ConwayDriver
